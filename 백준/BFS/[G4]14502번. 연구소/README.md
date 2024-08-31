@@ -1,4 +1,4 @@
-# [Gold 4] 롤러코스터 - 2873 
+# [Gold 4] 연구소 - 14502
 
 [문제 링크](https://www.acmicpc.net/problem/14502) 
 
