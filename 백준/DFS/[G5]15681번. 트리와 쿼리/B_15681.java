@@ -55,10 +55,8 @@ public class B_15681 {
     }
 
     public static int backtracking(int cur) {
-        int cnt = 0;
         for(int node : edges[cur]) {
             if(!visited[node]) {
-                cnt++;
                 visited[node] = true;
                 ans[cur] += backtracking(node);
             }
